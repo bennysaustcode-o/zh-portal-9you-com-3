@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bennysaustcode-o.github.io/zh-portal-9you-com-3/sitemap.xml
